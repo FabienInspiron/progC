@@ -1,4 +1,4 @@
-/*
+﻿/*
  ============================================================================
  Name        : Procsi.c
  Author      : Fabien Belli & Guillaume Lestel
@@ -7,10 +7,6 @@
  Description : Emulateur de PROCSI en C
  ============================================================================
  */
-
-
-#ifndef DEFNITION_H_INCLUDED
-#define DEFNITION_H_INCLUDED
 
 #define TAILLE_LIGNE 256
 
